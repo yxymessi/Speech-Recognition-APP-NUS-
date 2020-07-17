@@ -1,0 +1,665 @@
+Tiger 老虎  
+Giraffe 长颈鹿  
+Lion 狮子  
+Deer 鹿  
+Leopard 豹  
+Monkey 猴子  
+Elephant 大象  
+Chimpanzees 黑猩猩  
+Horse 马  
+Bear 熊  
+Donkey 驴  
+Kangaroo 袋鼠  
+Ox 牛  
+Hedgehog 刺猬  
+Sheep 绵羊  
+Rhinoceros 犀牛  
+Dog 狗  
+Camel 骆驼  
+Cat 猫  
+Hippopotamus 河马  
+Pig 猪  
+Crocodile 鳄鱼  
+Chicken 鸡肉  
+Snake 蛇  
+Rabbit 兔子  
+Frog 青蛙  
+Duck 鸭子  
+Tortoise 乌龟  
+Goose 鹅  
+Fox 狐狸  
+Panda 熊猫  
+Squirrel 松鼠  
+Zebra 斑马  
+Mouse 老鼠  
+Wolf 狼  
+Peacock （雄）孔雀  
+Owl 猫头鹰  
+Sparrow 麻雀  
+Toco toucan Miss ma 这个字典里没有  
+shrimp 虾  
+Dragofly 蜻蜓  
+Fly 苍蝇；飞虫  
+Cicada 蝉  
+Mantis 螳螂  
+Cricket 蟋蟀  
+Pigeon 鸽子  
+Crane 鹤  
+Penguin 企鹅  
+Ostrich 鸵鸟  
+Crab 蟹  
+Ant 蚂蚁  
+Bee 蜜蜂  
+Ladybird 雌鸟  
+Parrot 鹦鹉  
+Swan 天鹅  
+Eagle 鹰  
+Fish 鱼  
+Butterfly 蝴蝶  
+Mosquito 蚊子  
+adder, viper 蝰蛇  
+albatross 信天翁  
+alligator 短吻鳄, 美洲鳄  
+alpaca 羊驼  
+anchovy 凤尾鱼  
+anglerfish 安康鱼  
+anopheles 按蚊,疟蚊  
+ant 蚂蚁  
+anteater 食蚁兽  
+antilope 羚羊  
+armadillo 犰狳  
+ass, donkey 驴  
+badger 獾  
+bald eagle 白头鹰  
+bat 蝙蝠  
+bear 熊  
+beaver 河狸  
+bedbug, bug 臭虫  
+bee, honeybees 蜜蜂  
+beetle 甲虫, 金龟子  
+billy 雄山羊  
+bird of paradise 极乐鸟, 天堂鸟  
+bison 美洲野牛  
+blackbird 乌鸫  
+boa 王蛇  
+boar 雄猪, 种猪  
+brood 鸡的统称  
+buck 公兔  
+buffalo 水牛  
+bull, ox 雄牛  
+bullfrog 牛蛙  
+bullock, steer 小阉牛  
+bumble bee 大黄蜂  
+butterfly 蝴蝶  
+cabbage butterfly 纹白蝶  
+caiman, cayman 凯门鳄  
+calf 小牛, 牛犊  
+calf( pl. calves) 年幼的牛  
+camel 骆驼  
+canary 金丝雀  
+carp 鲤鱼  
+cat 猫  
+caterpillar 毛虫  
+catta 雌猫  
+cattle 牛  
+centipede 蜈蚣  
+chaffinch 苍头燕雀  
+chameleon 变色龙,避役  
+chick 小鸡  
+chicken 鸡, 雏鸡  
+chimpanzee 黑猩猩  
+chinchilla 南美栗鼠  
+chub 鲢鱼  
+cicada 蝉  
+clam 蚌  
+cob 雄天鹅  
+cobra 眼镜蛇  
+cod 鳕鱼  
+colt, foal 马驹,小马  
+condor 秃鹰  
+copperhead 美洲腹蛇  
+coral snake 银环蛇  
+cormorant 鸬鹚  
+cow 雌牛, 母牛  
+crab 蟹  
+crayfish 小龙虾, 喇蛄  
+cricket 蟋蟀  
+crocodile 鳄鱼, 非洲鳄  
+crow 乌鸦  
+crucian 鲫鱼  
+cuckoo 杜鹃,布谷鸟  
+cuttloefish 乌贼  
+cygnet 小天鹅  
+deer 鹿  
+dog 狗  
+dog 雄狗  
+dolphin 河豚  
+donkey, ass 驴  
+dormouse 睡鼠  
+dove 鸽  
+dragonfly 蜻蜓  
+dromedary 单峰驼  
+drone 雄蜂  
+duck 鸭  
+duckbill, platypus 鸭嘴兽  
+eagle 鹰  
+eel 鳗鱼  
+elephant 象  
+ewe 母羊  
+ferret 雪貂  
+flea 跳蚤  
+flock 绵羊的统称  
+fly 苍蝇  
+foal, colt, filly 幼马  
+fox 狐  
+frog 青蛙  
+gaggle 鹅的统称  
+gander 雄鹅  
+gander, wild goose 雁  
+gannet 塘鹅  
+gavial 印度鳄  
+gazelle 小羚羊  
+gelding 阉割的马  
+giant salamander 娃娃鱼, 鲵  
+gibbon 长臂猿  
+gilt 小母猪  
+giraffe 长颈鹿  
+glowworm, firefly 萤火虫  
+goat 山羊  
+golden eagle 鹫  
+goldfinch 金翅雀  
+goose 雌鹅  
+goose 鹅  
+gopher 囊地鼠  
+gorilla 大猩猩  
+gosling 幼鹅  
+grass snake 草蛇  
+grasshopper 蚱蜢  
+grouse 松鸡  
+guanaco 原驼  
+Guinea pig 豚鼠  
+guinea, fowl 珍珠鸡  
+gull, seagull 海鸥  
+hake 无须鳕  
+hare 野兔  
+hawk, falcon 隼  
+hedgehog 刺猬  
+heifer 小母牛  
+hen 母鸡  
+herd 牛的统称  
+herd 猪的统称  
+hermit crab 寄居蟹  
+heron 苍鹰  
+herring 青鱼, 鲱  
+hinny 驴骡  
+hippopotamus 河马  
+hog 阉猪, 肥猪  
+horse 马  
+horsefly, gadfly 厩蝇,牛虻  
+hummingbird 蜂雀  
+hyaena 鬣狗
+iguana 鬣蜥  
+Japanese beetle 日本金龟子  
+jenny ass 雌驴  
+kangaroo 袋鼠  
+kid 年幼的山羊  
+kingfisher 翠鸟  
+kite 鹞  
+kitten 小猫  
+kitty,小猫
+koala 考拉, 树袋熊  
+ladybird 瓢虫  
+lamb 羊羔,羔羊  
+large prawn 大对虾  
+lark 百鸟,云雀  
+leopard 豹  
+lion 狮  
+lizard 蜥蜴  
+llama 大羊驼  
+lobster 龙虾  
+locust 蝗虫  
+louse, lice 虱子, 白虱  
+lynx 猞猁  
+macaw 金刚鹦鹉  
+mackerel 鲭,鲐  
+magpie 喜鹊  
+male ant 雄蚁  
+mallard 野鸭, 凫  
+mare 母马  
+marmot 土拨鼠  
+moccasin 嗜鱼蛇  
+mole 鼹鼠  
+monkey 猴子  
+mosquito 蚊  
+moth 蛾  
+mouse 家鼠  
+mule 骡  
+mullet 乌鱼, 黑鱼  
+mussel 淡菜,贻贝  
+mustang 野马  
+mutton 羊肉  
+nanny 雌山羊  
+nightingale 夜莺  
+Norway lobster 蝉虾  
+octopus 章鱼  
+orangutan 猩猩  
+ostrich 鸵鸟  
+otter 水獭  
+owl 枭,猫头鹰  
+ox 牛  
+oyster 牡蛎  
+pale clouded yellow 纹黄蝶  
+panther, puma 美洲豹  
+parakeet 长尾鹦鹉  
+parrot 鹦鹉  
+partridge 石鸡, 鹧鸪
+pelican 鹈鹕  
+penguin 企鹅  
+perch 鲈鱼  
+pheasant 雉, 野鸡  
+pig, swine 猪  
+pigeon 野鸽  
+piglet, shoat 年幼的猪  
+pike 梭子鱼  
+plaice 鲽  
+plover 千鸟  
+pony 矮马  
+porcupine 箭猪, 豪猪  
+porpoise 大西洋鼠海豚  
+poult 小火鸡  
+prawn 虾  
+praying mantis 螳螂  
+ptarmigan 雷鸟  
+pup 年幼的狗  
+python 蟒蛇  
+quail 鹌鹑  
+queen ant 蚁后  
+queen bee 蜂王  
+rabbit 兔  
+rabbit 兔子  
+ram 雄绵羊  
+rat 鼠  
+rattlesnake 响尾蛇  
+ray 鳐鱼  
+red mullet, surmullet 羊鱼  
+reindeer 驯鹿  
+rhinoceros 犀牛  
+robin 知更鸟  
+sailfish 旗鱼  
+salamander, triton, newt 蝾螈  
+salmon 鲑鱼  
+sardine 沙丁鱼  
+scallop 扇贝  
+scops owl 角枭,耳鸟  
+scorpion 蝎子  
+sea bream 海鲷  
+sea horse 海马  
+sea turtle 海龟  
+sea urchin 海胆  
+seal 海豹  
+shark 鲨鱼  
+sheep 绵羊  
+shrimp 对虾  
+silkworm moth 蚕蛾  
+silverfish 蠹虫  
+skipjack 鲣鱼  
+sloth 獭猴  
+snail 蜗牛  
+snake 蛇  
+snipe 鹬  
+sole 舌鳎  
+sow 雌猪  
+sparrow 麻雀  
+spider 蜘蛛  
+spider crab 蜘蛛蟹  
+rock lobster 大螯虾
+squid 枪乌贼,鱿鱼  
+squirrel 松鼠  
+stallion 雄马  
+starling 八哥  
+stink bug 椿象  
+stork 鹳  
+sturgeon 鲟鱼  
+sulphur butterfly 白蝴蝶  
+sunfish 翻车鱼  
+swallow 燕子  
+swallowtail 凤尾蝶  
+swan 天鹅  
+swift 褐雨燕  
+swordfish 剑鱼  
+tabby, she-cat, grimalkin 雌猫  
+tarantula 多毛毒蜘蛛  
+tarpon 大海鲢  
+teal 小野鸭  
+termite 蚁  
+thoroughbred 纯种马  
+thrush 画眉  
+tiger 虎  
+toad 蟾蜍  
+tom 雄火鸡  
+tomcat 雄猫  
+tomcat 雄猫, 公猫  
+tortoise 玳瑁  
+trout 鳟鱼  
+tuatara 古蜥蜴  
+tunny, tuna 金枪鱼  
+turbot 大菱鲆  
+turkey 火鸡  
+turtle 龟  
+turtle dove 斑鸠  
+vicuna 小羊驼  
+vole 田鼠  
+vulture 秃鹫  
+wall lizard 壁虎  
+walrus 海象  
+wasp 黄蜂, 胡蜂  
+water buffalo 水牛  
+weasel 鼬,黄鼠狼  
+whale 鲸  
+white ant 白蚁  
+whitethroat 白喉雀  
+whiting 小无须鳕  
+wiggler 孑孓  
+wildcat 野猫  
+wolf 狼
+woodpecker 啄木鸟  
+worker ant 工蚁  
+yak 牦牛  
+zebra 斑马  
+horse 马  
+stallion 雄马  
+mare 雌马  
+foal, colt, filly 幼马  
+gelding 阉割的马  
+donkey, ass 驴  
+donkey 雄驴  
+jenny ass 雌驴  
+hinny 驴骡  
+mule 马骡  
+cattle 牛  
+bull, ox 雄牛  
+cow 雌牛  
+calf( pl. calves) 年幼的牛
+herd 牛的统称  
+water buffalo 水牛  
+yak 牦牛  
+sheep 绵羊  
+ram 雄绵羊  
+ewe 雌绵羊  
+lamb 年幼的绵羊  
+flock 绵羊的统称  
+mutton 羊肉  
+goat 山羊  
+billy 雄山羊  
+nanny 雌山羊  
+kid 年幼的山羊  
+pig 猪  
+boar 雄猪  
+sow 雌猪  
+piglet,shoat 年幼的猪  
+herd 猪的统称  
+dog 狗  
+dog 雄狗
+pup 年幼的狗  
+rabbit 兔  
+buck 公兔  
+goose 鹅  
+gander 雄鹅  
+goose 雌鹅  
+gosling 幼鹅  
+gaggle 鹅的统称  
+chicken 鸡  
+cock,rooster 公鸡  
+hen 母鸡  
+chick 小鸡  
+brood 鸡的统称  
+duck 鸭  
+turkey 火鸡  
+tom 雄火鸡  
+poult 小火鸡  
+cat 猫  
+tomcat 雄猫  
+catta 雌猫  
+kitten 小猫  
+horse 马  
+mare 母马  
+colt, foal 马驹,小马  
+pony 矮马  
+thoroughbred 纯种马  
+mustang 野马  
+mule 骡  
+ass, donkey 驴  
+ox 牛  
+buffalo 水牛  
+bull 公牛  
+cow 母牛  
+calf 小牛, 牛犊  
+bullock, steer 小阉牛  
+heifer 小母牛  
+pig, swine 猪  
+boar 种猪  
+hog 阉猪, 肥猪  
+gilt 小母猪  
+piglet 猪崽  
+sheep 羊  
+ewe 母羊  
+goat 山羊  
+lamb 羊羔,羔羊  
+zebra 斑马  
+antilope 羚羊  
+gazelle 小羚羊  
+deer 鹿  
+reindeer 驯鹿  
+giraffe 长颈鹿  
+camel 骆驼  
+dromedary 单峰驼  
+llama 大羊驼  
+guanaco 原驼  
+alpaca 羊驼  
+vicuna 小羊驼  
+elephant 象  
+rhinoceros 犀牛  
+hippopotamus 河马  
+cat 猫  
+tabby, she-cat, grimalkin 雌猫  
+tomcat 雄猫, 公猫  
+kitten 小猫
+lion 狮  
+lynx 猞猁
+puma 美洲豹
+leopard 豹  
+tiger 虎  
+wildcat 野猫  
+bison 美洲野牛  
+yak 牦牛  
+dog 狗  
+badger 獾  
+weasel 鼬,黄鼠狼  
+otter 水獭  
+fox 狐  
+hyena 鬣狗
+wolf 狼  
+squirrel 松鼠  
+dormouse 睡鼠  
+beaver 河狸  
+marmot 土拨鼠  
+ferret 雪貂  
+bear 熊  
+rabbit 兔子  
+hare 野兔  
+rat 鼠  
+chinchilla 南美栗鼠  
+gopher 囊地鼠  
+Guinea pig 豚鼠  
+marmot 土拨鼠  
+mole 鼹鼠  
+mouse 家鼠  
+vole 田鼠  
+monkey 猴子  
+chimpanzee 黑猩猩  
+gorilla 大猩猩  
+orangutan 猩猩  
+gibbon 长臂猿  
+sloth 獭猴  
+anteater 食蚁兽  
+duckbill, platypus 鸭嘴兽  
+kangaroo 袋鼠  
+koala 考拉, 树袋熊  
+hedgehog 刺猬  
+porcupine 箭猪, 豪猪  
+bat 蝙蝠  
+armadillo 犰狳  
+whale 鲸  
+dolphin 河豚  
+porpoise 大西洋鼠海豚  
+seal 海豹  
+walrus 海象  
+horse 马  
+stallion 雄马  
+mare 雌马  
+foal 幼马
+gelding 阉割的马  
+donkey 驴
+donkey 雄驴  
+jenny 雌驴
+hinny 驴骡  
+mule 马骡  
+cattle 牛  
+bull, ox 雄牛  
+cow 雌牛  
+calf 年幼的牛
+herd 牛的统称  
+water buffalo 水牛  
+yak 牦牛  
+sheep 绵羊  
+ram 雄绵羊  
+ewe 雌绵羊  
+lamb 年幼的绵羊  
+flock 绵羊的统称  
+mutton 羊肉  
+goat 山羊  
+billy 雄山羊  
+nanny 雌山羊  
+kid 年幼的山羊  
+pig 猪  
+boar 雄猪  
+sow 雌猪  
+piglet,shoat 年幼的猪  
+herd 猪的统称  
+dog 狗  
+dog 雄狗
+pup 年幼的狗  
+rabbit 兔  
+buck 公兔  
+goose 鹅  
+gander 雄鹅  
+goose 雌鹅  
+gosling 幼鹅  
+gaggle 鹅的统称  
+chicken 鸡  
+cock 公鸡
+hen 母鸡  
+chick 小鸡  
+brood 鸡的统称  
+duck 鸭  
+turkey 火鸡  
+tom 雄火鸡  
+poult 小火鸡  
+cat 猫  
+tomcat 雄猫  
+catta 雌猫  
+kitten 小猫  
+horse 马  
+mare 母马  
+foal 马驹,小马
+pony 矮马  
+thoroughbred 纯种马  
+mustang 野马  
+mule 骡  
+ass, donkey 驴  
+ox 牛  
+buffalo 水牛  
+bull 公牛  
+cow 母牛  
+calf 小牛, 牛犊  
+steer 小阉牛
+heifer 小母牛  
+pig 猪
+boar 种猪  
+hog 阉猪, 肥猪  
+gilt 小母猪  
+piglet 猪崽  
+sheep 羊  
+ewe 母羊  
+goat 山羊  
+lamb 羊羔,羔羊  
+zebra 斑马  
+antilope 羚羊  
+gazelle 小羚羊  
+deer 鹿  
+reindeer 驯鹿  
+giraffe 长颈鹿  
+camel 骆驼  
+dromedary 单峰驼  
+llama 大羊驼  
+guanaco 原驼  
+alpaca 羊驼  
+vicuna 小羊驼  
+elephant 象  
+rhinoceros 犀牛  
+hippopotamus 河马  
+cat 猫  
+tabby 雌猫
+tomcat 雄猫, 公猫  
+kitten 小猫
+lion 狮  
+lynx 猞猁  
+puma 美洲豹
+leopard 豹  
+tiger 虎  
+wildcat 野猫  
+bison 美洲野牛  
+yak 牦牛  
+dog 狗  
+badger 獾  
+weasel 鼬,黄鼠狼  
+otter 水獭  
+fox 狐  
+hyena 鬣狗
+wolf 狼  
+squirrel 松鼠  
+dormouse 睡鼠  
+beaver 河狸  
+marmot 土拨鼠  
+ferret 雪貂  
+bear 熊  
+rabbit 兔子  
+hare 野兔  
+rat 鼠  
+chinchilla 南美栗鼠  
+gopher 囊地鼠  
+Guinea pig 豚鼠  
+marmot 土拨鼠  
+mole 鼹鼠  
+mouse 家鼠  
+vole 田鼠  
+monkey 猴子  
+chimpanzee 黑猩猩  
+gorilla 大猩猩  
+orangutan 猩猩  
+gibbon 长臂猿  
+sloth 獭猴  
+anteater 食蚁兽  
+platypus 鸭嘴兽
+kangaroo 袋鼠  
+koala 考拉, 树袋熊  
+hedgehog 刺猬  
+porcupine 箭猪, 豪猪  
+bat 蝙蝠  
+armadillo 犰狳  
+whale 鲸  
+dolphin 河豚  
+porpoise 大西洋鼠海豚  
+seal 海豹  
+walrus 海象  
+

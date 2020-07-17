@@ -1,0 +1,644 @@
+aardvark
+abalone
+African wild cat
+albatross
+algae
+agouti
+alpaca
+amoeba
+American bison
+amphibian
+ant
+anteater
+antelope
+ape
+aphid
+arachnid
+arctic fox
+arctic wolf
+armadillo
+arthropod
+aye-aye
+
+baboon
+badger
+bandicoot
+barnacle
+barracuda
+bass
+
+	
+
+bat
+bear
+beaver
+bedbug
+bee
+bilby
+
+	
+
+bison
+bivalve
+black bear
+black bear hamster
+blackbird
+bluebird
+bluejay
+
+	
+
+blue whale
+bobcat
+bongo
+bonobo
+bowhead whale
+brittle star
+brown bear
+
+	
+
+bug
+buffalo
+bull
+bullfrog
+bumblebee
+bushbaby
+butterfly
+camel
+canary
+cape buffalo
+capybera
+caracal
+cardinal
+caribou
+carnivora
+carpenter ant
+
+
+	
+
+cassowary
+cat
+caterpillar
+cattle
+cavy
+cheetah
+chickadee
+chicken
+chimipanzee
+
+	
+
+chinchilla
+chipmunk
+chiton
+chrysalis
+cicada
+clam
+coati
+cockatoo
+cod
+
+	
+
+coelacanth
+cockroach
+collared peccary
+colugo
+conch
+copepod
+coral
+cougar
+cow
+
+	
+
+coyote
+coypu
+crab
+crane
+cricket
+crow
+crustacean
+cuttlefish
+cutworm
+damselfly
+deer
+dhole
+
+	
+
+diatom
+dingo
+dodo
+
+	
+
+dog
+dogfish
+dolphin
+
+	
+
+donkey
+dove
+dragonfly
+
+	
+
+dromedary
+duck
+dugong
+duck-billed platypus
+eagle
+earthworm
+earwig
+
+	
+
+echidna
+eel
+egg
+
+	
+
+egret
+ekaltadelta
+eland
+
+	
+
+elephant
+elephant seal
+elk
+emu
+ermine
+falcon
+ferret
+finch
+fin whale
+
+	
+
+fireant
+firefly
+fish
+
+	
+
+flamingo
+flatworm
+flea
+flounder
+
+	
+
+fly
+flying fish
+flying squirrel
+fossa
+
+	
+
+fowl
+fox
+frog
+fruit bat
+galagos
+gar
+gazelle
+gerbil
+
+	
+
+giant squid
+gibbon
+giraffe
+gnat
+gnu
+
+	
+
+goat
+goldfinch
+goose
+gopher
+gorilla
+
+	
+
+grasshopper
+gray whale
+great apes
+grizzly bear
+groundhog
+
+	
+
+grouper
+grouse
+grub
+guinea pig
+gull
+
+hammerhead shark
+hamster
+hares
+harp seal
+hawk
+
+	
+
+hedgehog
+hen
+hermit crab
+heron
+herring
+
+	
+
+hippo
+hippopotamus
+honey bee
+hornet
+horse
+
+	
+
+horseshoe crab
+housefly
+howler monkey
+human being
+
+	
+
+hummingbird
+humpback whale
+hyena
+hyrax
+ibis
+imago
+
+	
+
+impala
+insect
+
+	
+
+insectivores
+isopod
+jaguar
+
+	
+
+javelina
+jay
+
+	
+
+jellyfish
+jumping bean
+
+	
+
+junebug
+junco
+kakapo
+kangaroo
+
+	
+
+katydid
+killer whale
+
+	
+
+kinkajou
+kiwi
+
+	
+
+koala
+kookaburra
+
+	
+
+krill
+Kudu
+ladybug
+lagomorph
+larva
+lemming
+
+	
+
+lemur
+leopard
+lice
+limpet
+
+	
+
+lion
+llama
+lobster
+locust
+
+	
+
+loggerehad turtle
+longhorn
+loon
+lorikeet
+
+	
+
+loris
+louse
+lynx
+macaque
+macaw
+mackerel
+maggot
+mako shark
+mallard duck
+mammal
+mammoth
+manatee
+
+	
+
+mandrill
+man-o'-war
+manta ray
+mantid
+marine mammals
+marmoset
+marmot
+marsupial
+
+	
+
+mastodon
+meadowlark
+mealworm
+meerkat
+merganser
+midge
+mink
+mice
+
+	
+
+mockingbird
+mole
+mollusk
+monarch butterfly
+mongoose
+monkey
+moose
+moray eel
+
+	
+
+morpho butterfly
+mosquito
+moth
+mouse
+mudpuppy
+musk ox
+muskrat
+mussels
+mustelids
+nabarlek
+naked mole-rat
+
+	
+
+nandu
+narwhal
+
+	
+
+nautilus
+newt
+
+	
+
+numbat
+nuthatch
+
+	
+
+nutria
+nymph
+ocelot
+octopus
+okapi
+
+	
+
+onager
+opossum
+orangutan
+
+	
+
+orca
+oriole
+oryx
+
+	
+
+ostrich
+otter
+owl
+
+	
+
+ox
+oxpecker
+oyster
+panda
+pangolin
+panther
+parakeet
+parrot
+peacock
+
+	
+
+peafowl
+pelican
+penguin
+petrel
+pig
+pika
+
+	
+
+pinniped
+placental
+plankton
+platypus
+plover
+
+	
+
+polar bear
+polliwog
+pompano
+porcupine
+porpoise
+primates
+
+	
+
+pronghorn
+protozoan
+pufferfish
+puffin
+puma
+pupa
+quagga
+quail
+queen conch
+quetzal
+quokka
+quoll
+rabbit
+raccoon
+rat
+ray
+red kangaroo
+red panda
+reindeer
+reptile
+rhea
+rhino
+rhinoceros
+right whale
+ring-tailed lemur
+ringtail possum
+river otter
+roadrunner
+roach
+robin
+rodent
+rooster
+roundworm
+sailfish
+salamander
+salmon
+sand dollar
+sandpiper
+scallop
+scorpion
+sea anemone
+sea cow
+seal
+sealion
+sea otter
+sea cucumber
+sea star
+sea turtle
+sea urchin
+sea worm
+serval
+sheep
+shrew
+shrimp
+siamang
+silkworm
+silverfish
+skipper
+skunk
+sloth
+snail
+snapper
+sparrow
+spider
+spiny anteater
+sponge
+springtail
+squirrel
+starfish
+starling
+stingray
+stonefly
+stork
+sugar glider
+sunfish
+swallowtail butterfly
+swan
+swift
+swordfish
+tadpole
+tamarin
+tanager
+tapir
+tarantula
+tarpon
+tarsier
+Tasmanian devil
+Tasmanian tiger
+
+termite
+tern
+three-toed sloth
+thrip
+tick
+tiger
+toad
+tortoise
+toucan
+treefrog
+treeshrew
+tsetse fly
+tuna
+turkey
+turtle
+umbrellabird
+ungulates
+
+	
+
+urchin
+
+vampire bat
+viceroy butterfly
+Virginia opossum
+vulture
+wallaby
+walkingstick
+walrus
+warthog
+
+wasp
+waterbug
+weasel
+weddell seal
+
+weevil
+whale
+whale shark
+whelk
+wildebeest
+wolverine
+woodland caribou
+woodpecker
+wolf
+wombat
+worm
+woodcheck
+wren
+xenops
+
+yak
+yellowjacket
+zebra
+zooplankton
+zorilla
+zorro
