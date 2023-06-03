@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ScoreVC" customModule="nus_ipad" customModuleProvider="target">
+            <connections>
+                <outlet property="lb" destination="gQQ-j0-T7m" id="UZY-Wt-pji"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Your Score" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qEh-aa-ymQ">
+                    <rect key="frame" x="160" y="94" width="94" height="24"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gQQ-j0-T7m">
+                    <rect key="frame" x="10" y="168" width="394" height="43"/>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="36"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="gQQ-j0-T7m" secondAttribute="trailing" constant="10" id="Aa6-4W-lgj"/>
+                <constraint firstItem="qEh-aa-ymQ" firstAttribute="centerX" secondItem="fnl-2z-Ty3" secondAttribute="centerX" id="OIs-kq-Haa"/>
+                <constraint firstItem="gQQ-j0-T7m" firstAttribute="centerX" secondItem="fnl-2z-Ty3" secondAttribute="centerX" id="cOv-0q-gNd"/>
+                <constraint firstItem="gQQ-j0-T7m" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="ckn-M1-8u3"/>
+                <constraint firstItem="qEh-aa-ymQ" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="50" id="fR4-Qc-Ia8"/>
+                <constraint firstItem="gQQ-j0-T7m" firstAttribute="top" secondItem="qEh-aa-ymQ" secondAttribute="bottom" constant="50" id="kCY-jO-vBD"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <point key="canvasLocation" x="137.68115942028987" y="99.776785714285708"/>
+        </view>
+    </objects>
+</document>
